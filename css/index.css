@@ -41,3 +41,12 @@ p {
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
+.first-img {
+  display: inline;
+  width: 350;
+  height: 350;
+}
+
+.container-img {
+  width: 100%;
+}
