@@ -12,4 +12,5 @@ Difference Between Bootstrap 3 and Bootstrap 5
 |Circle Image|`img-circle`|`rounded-circle`|
 |Icons|`glyphicon `|Font Awesome|
 |Responsive Images|`img-responsive`|`img-fluid`|
+|Right aligned collapse|`navbar-right`|`justify-content-end`|
 
