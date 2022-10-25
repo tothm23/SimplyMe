@@ -17,3 +17,11 @@
   padding-top: 70px;
   padding-bottom: 70px;
 }
+
+#circular-bird {
+  display: inline;
+}
+
+.grid-birds {
+  width: 100%;
+}
