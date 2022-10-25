@@ -14,3 +14,10 @@ Difference Between Bootstrap 3 and Bootstrap 5
 |Responsive Images|`img-responsive`|`img-fluid`|
 |Right aligned collapse|`navbar-right`|`justify-content-end`|
 
+# Watch the results!
+
+[Simply Me BS3](./B3%20Simply%20Me.html)
+
+[Simply Me BS4](./B4%20Simply%20Me.html)
+
+[Simply Me BS5](./B5%20Simply%20Me.html)
